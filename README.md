@@ -1,7 +1,7 @@
 # **EasyParkir - AI-Optimized Parking Management System**  
 *Developed with PHP Native, MySQL, and IBM Granite AI*  
 
-🔗 **Live Demo**: [https://easyparkir.fwh.is](https://easyparkir.fwh.is) | 📂 **GitHub**: [https://github.com/romiwebdev/EasyParkir-Sistem-Manajemen-Parkir-Digital](https://github.com/romiwebdev/EasyParkir-Sistem-Manajemen-Parkir-Digital)  
+🔗 **Live Demo**: [https://easyparkir.fwh.is](https://easyparkir.fwh.is) | 📂 **GitHub**: [https://github.com/romitechdev/EasyParkir-AI-Optimized-Digital-Parking-Management-System](https://github.com/romitechdev/EasyParkir-AI-Optimized-Digital-Parking-Management-System)  
 
 ---
 
@@ -75,8 +75,8 @@ The integration of **IBM Granite AI** enabled rapid prototyping, code optimizati
 ### **Local Setup**  
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/romiwebdev/EasyParkir-Sistem-Manajemen-Parkir-Digital
-   cd EasyParkir-Sistem-Manajemen-Parkir-Digital
+    git clone https://github.com/romitechdev/EasyParkir-AI-Optimized-Digital-Parking-Management-System
+    cd EasyParkir-AI-Optimized-Digital-Parking-Management-System
    ```  
 
 2. **Import the database**:  
