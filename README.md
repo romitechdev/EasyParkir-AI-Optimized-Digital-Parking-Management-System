@@ -128,7 +128,6 @@ The integration of **IBM Granite AI** enabled rapid prototyping, code optimizati
 4. **Documentation Automation**  
    - Generated **60% of project documentation** including this README  
 
-
 ---
 
 ## **📜 License**  
@@ -137,3 +136,7 @@ MIT License - Free for academic and commercial use
 **Developed by romi as a Capstone Project**  
 
 ⭐ **Star this repo if you find it useful!** ⭐  
+
+<!-- last-updated -->
+_Last updated: 2026-09-05_
+
